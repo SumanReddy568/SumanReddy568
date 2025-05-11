@@ -53,21 +53,43 @@ I'm a Software Development Engineer in Test (SDET) with expertise in automation 
 <h2> 📊 GitHub Stats </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumanReddy568&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+  <p align="center">
+    <a href="https://github.com/SumanReddy568">
+      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SumanReddy568&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanReddy568&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </a>
+  </p>
+  
+  <!-- Language Stats in Two Different Styles -->
+  <p align="center">
+    <a href="https://github.com/SumanReddy568">
+      <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SumanReddy568&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumanReddy568&theme=tokyonight&hide_border=true" alt="Language Distribution"/>
+    </a>
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanReddy568&theme=tokyonight" alt="GitHub Streak" />
-</div>
+  <!-- Productivity Stats -->
+  <p align="center">
+    <a href="https://github.com/SumanReddy568">
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SumanReddy568&theme=tokyonight&hide_border=true&utcOffset=8" alt="Productivity Stats"/>
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanReddy568&theme=tokyonight&hide_border=true" alt="Profile Details"/>
+    </a>
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanReddy568&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+  <!-- Activity Graph -->
+  <a href="https://github.com/SumanReddy568">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanReddy568&theme=tokyo-night&hide_border=true&height=300&line=4C75F2&point=1F6FEB&area=true&area_color=4C75F2" alt="Activity Graph"/>
+  </a>
 
-<h2> 🏆 GitHub Trophies </h2>
+  <!-- Contribution Stats -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SumanReddy568&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumanReddy568&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+  <!-- Isometric Contribution Calendar -->
+  <a href="https://github.com/SumanReddy568">
+    <img src="https://ghchart.rshah.org/4C75F2/SumanReddy568" alt="GitHub Contribution Chart" width="100%"/>
+  </a>
 </div>
 
 <h2> 🤝 Connect with Me </h2>
